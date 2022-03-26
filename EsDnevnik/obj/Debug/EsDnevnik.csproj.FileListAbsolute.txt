@@ -1,0 +1,10 @@
+C:\Users\Lola\source\repos\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+C:\Users\Lola\source\repos\EsDnevnik\bin\Debug\EsDnevnik.exe
+C:\Users\Lola\source\repos\EsDnevnik\bin\Debug\EsDnevnik.pdb
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.exe
+C:\Users\Lola\source\repos\EsDnevnik\obj\Debug\EsDnevnik.pdb
